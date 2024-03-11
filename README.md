@@ -1,1 +1,1 @@
-Expense Tracker
+EXPENSE TRACKER
