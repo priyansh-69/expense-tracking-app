@@ -1,7 +1,7 @@
 # Expense Tracker
 
 ## Overview
-,
+
 Expense Tracker is a simple web application designed to help users manage their expenses and budget effectively. It provides features to add budget, track expenses, and view expense history. The application is built using HTML, CSS, and JavaScript.
 
 ## Features
